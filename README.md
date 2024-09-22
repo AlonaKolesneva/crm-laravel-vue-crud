@@ -1,7 +1,3 @@
-<img src="assets/instructions/logo.svg" width=300>
-<br>
-<br>
-
 ### Description
 
 A web-based Customer Relationship Management (CRM) application showcasing full-stack development skills using Vue.js and Laravel. This application enables users to manage customer information, including the ability to add, update, delete, and view customer details.
