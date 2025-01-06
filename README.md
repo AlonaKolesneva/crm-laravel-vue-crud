@@ -4,7 +4,7 @@ A web-based Customer Relationship Management (CRM) application showcasing full-s
 
 ### Technology Stack:
 
-Frontend: Vue.js
+Frontend: Vue.js, Vite, Pinia
 Backend: Laravel
 Database: MySQL
 Testing: PHPUnit
